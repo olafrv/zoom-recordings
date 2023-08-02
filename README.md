@@ -18,7 +18,7 @@ export ZOOM_RECORDING_MONTH_TO=8
 export ZOOM_USERS_FILTER="olaf.reitmaier@example.com"  # or leave it empty "" but set
 pip3 install -r requirements.ext
 python3 main.py
-``
+```
 
 # References
 
