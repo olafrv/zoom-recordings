@@ -1,0 +1,4 @@
+downloads
+*.pkl
+.DS_Store
+.dccache
