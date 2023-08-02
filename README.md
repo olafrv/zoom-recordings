@@ -1,5 +1,9 @@
 # Zoom Recordings Downloader
 
+This is a script to download all meeting recordings from Zoom cloud via API.
+
+## Usage
+
 First:
 
 * https://marketplace.zoom.us/user/build (Developer > Build Apps > Server-to-Server OAuth)
@@ -20,7 +24,7 @@ pip3 install -r requirements.ext
 python3 main.py
 ```
 
-# References
+## References
 
 * Zoom Server to Server OAuth: https://developers.zoom.us/docs/internal-apps/s2s-oauth/
 * Inspiration: https://github.com/ricardorodrigues-ca/zoom-recording-downloader
